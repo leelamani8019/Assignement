@@ -1,0 +1,15 @@
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\bin\Debug\net6.0\generic_concept.exe
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\bin\Debug\net6.0\generic_concept.deps.json
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\bin\Debug\net6.0\generic_concept.runtimeconfig.json
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\bin\Debug\net6.0\generic_concept.dll
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\bin\Debug\net6.0\generic_concept.pdb
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.csproj.AssemblyReference.cache
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.AssemblyInfoInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.AssemblyInfo.cs
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.csproj.CoreCompileInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.dll
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\refint\generic_concept.dll
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.pdb
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\generic_concept.genruntimeconfig.cache
+E:\laxman\training\assignmentrepo\Assinment1\generic_concept\obj\Debug\net6.0\ref\generic_concept.dll

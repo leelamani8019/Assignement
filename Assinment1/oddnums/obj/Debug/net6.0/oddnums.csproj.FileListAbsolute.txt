@@ -1,0 +1,15 @@
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\bin\Debug\net6.0\oddnums.exe
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\bin\Debug\net6.0\oddnums.deps.json
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\bin\Debug\net6.0\oddnums.runtimeconfig.json
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\bin\Debug\net6.0\oddnums.dll
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\bin\Debug\net6.0\oddnums.pdb
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.csproj.AssemblyReference.cache
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.AssemblyInfoInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.AssemblyInfo.cs
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.csproj.CoreCompileInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.dll
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\refint\oddnums.dll
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.pdb
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\oddnums.genruntimeconfig.cache
+E:\laxman\training\assignmentrepo\Assinment1\oddnums\obj\Debug\net6.0\ref\oddnums.dll

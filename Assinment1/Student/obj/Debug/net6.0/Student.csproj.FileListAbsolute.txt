@@ -1,0 +1,15 @@
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.AssemblyInfo.cs
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Student\bin\Debug\net6.0\Student.exe
+E:\laxman\training\assignmentrepo\Assinment1\Student\bin\Debug\net6.0\Student.deps.json
+E:\laxman\training\assignmentrepo\Assinment1\Student\bin\Debug\net6.0\Student.runtimeconfig.json
+E:\laxman\training\assignmentrepo\Assinment1\Student\bin\Debug\net6.0\Student.dll
+E:\laxman\training\assignmentrepo\Assinment1\Student\bin\Debug\net6.0\Student.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.dll
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\refint\Student.dll
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\Student.genruntimeconfig.cache
+E:\laxman\training\assignmentrepo\Assinment1\Student\obj\Debug\net6.0\ref\Student.dll

@@ -1,0 +1,15 @@
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\bin\Debug\net6.0\Unboxing.exe
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\bin\Debug\net6.0\Unboxing.deps.json
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\bin\Debug\net6.0\Unboxing.runtimeconfig.json
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\bin\Debug\net6.0\Unboxing.dll
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\bin\Debug\net6.0\Unboxing.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.csproj.AssemblyReference.cache
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.AssemblyInfoInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.AssemblyInfo.cs
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.csproj.CoreCompileInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.dll
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\refint\Unboxing.dll
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\Unboxing.genruntimeconfig.cache
+E:\laxman\training\assignmentrepo\Assinment1\Unboxing\obj\Debug\net6.0\ref\Unboxing.dll

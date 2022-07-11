@@ -1,0 +1,15 @@
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\bin\Debug\net6.0\Arryali.exe
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\bin\Debug\net6.0\Arryali.deps.json
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\bin\Debug\net6.0\Arryali.runtimeconfig.json
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\bin\Debug\net6.0\Arryali.dll
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\bin\Debug\net6.0\Arryali.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.csproj.AssemblyReference.cache
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.AssemblyInfoInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.AssemblyInfo.cs
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.csproj.CoreCompileInputs.cache
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.dll
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\refint\Arryali.dll
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.pdb
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\Arryali.genruntimeconfig.cache
+E:\laxman\training\assignmentrepo\Assinment1\Arryali\obj\Debug\net6.0\ref\Arryali.dll
