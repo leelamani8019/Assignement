@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\overloading\\overloading.csproj": {}
+    "E:\\laxman\\training\\Assignement\\Assinment1\\overloading\\overloading.csproj": {}
   },
   "projects": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\overloading\\overloading.csproj": {
+    "E:\\laxman\\training\\Assignement\\Assinment1\\overloading\\overloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\overloading\\overloading.csproj",
+        "projectUniqueName": "E:\\laxman\\training\\Assignement\\Assinment1\\overloading\\overloading.csproj",
         "projectName": "overloading",
-        "projectPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\overloading\\overloading.csproj",
+        "projectPath": "E:\\laxman\\training\\Assignement\\Assinment1\\overloading\\overloading.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\overloading\\obj\\",
+        "outputPath": "E:\\laxman\\training\\Assignement\\Assinment1\\overloading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

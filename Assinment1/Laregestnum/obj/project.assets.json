@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Laregestnum\\Laregestnum.csproj",
+      "projectUniqueName": "E:\\laxman\\training\\Assignement\\Assinment1\\Laregestnum\\Laregestnum.csproj",
       "projectName": "Laregestnum",
-      "projectPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Laregestnum\\Laregestnum.csproj",
+      "projectPath": "E:\\laxman\\training\\Assignement\\Assinment1\\Laregestnum\\Laregestnum.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Laregestnum\\obj\\",
+      "outputPath": "E:\\laxman\\training\\Assignement\\Assinment1\\Laregestnum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

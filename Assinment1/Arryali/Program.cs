@@ -10,19 +10,13 @@ public class States
         mylist.Add("Mumbai");
         mylist.Add("Kolkota");
         mylist.Add("chennai");
-
-        // ArrayList before sorting
         Console.WriteLine("ArrayList before sort:");
         foreach (string i in mylist)
         {
             Console.WriteLine(i);
         }
         Console.WriteLine("ArrayList after sort:");
-
-        // sort the ArrayList
         mylist.Sort();
-
-        // ArrayList after sort
         foreach (string i in mylist)
         {
             Console.WriteLine(i);

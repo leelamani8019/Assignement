@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\generic_concept\\generic_concept.csproj": {}
+    "E:\\laxman\\training\\Assignement\\Assinment1\\generic_concept\\generic_concept.csproj": {}
   },
   "projects": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\generic_concept\\generic_concept.csproj": {
+    "E:\\laxman\\training\\Assignement\\Assinment1\\generic_concept\\generic_concept.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\generic_concept\\generic_concept.csproj",
+        "projectUniqueName": "E:\\laxman\\training\\Assignement\\Assinment1\\generic_concept\\generic_concept.csproj",
         "projectName": "generic_concept",
-        "projectPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\generic_concept\\generic_concept.csproj",
+        "projectPath": "E:\\laxman\\training\\Assignement\\Assinment1\\generic_concept\\generic_concept.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\generic_concept\\obj\\",
+        "outputPath": "E:\\laxman\\training\\Assignement\\Assinment1\\generic_concept\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\oddnums\\oddnums.csproj": {}
+    "E:\\laxman\\training\\Assignement\\Assinment1\\oddnums\\oddnums.csproj": {}
   },
   "projects": {
-    "E:\\laxman\\training\\assignmentrepo\\Assinment1\\oddnums\\oddnums.csproj": {
+    "E:\\laxman\\training\\Assignement\\Assinment1\\oddnums\\oddnums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\oddnums\\oddnums.csproj",
+        "projectUniqueName": "E:\\laxman\\training\\Assignement\\Assinment1\\oddnums\\oddnums.csproj",
         "projectName": "oddnums",
-        "projectPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\oddnums\\oddnums.csproj",
+        "projectPath": "E:\\laxman\\training\\Assignement\\Assinment1\\oddnums\\oddnums.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\oddnums\\obj\\",
+        "outputPath": "E:\\laxman\\training\\Assignement\\Assinment1\\oddnums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

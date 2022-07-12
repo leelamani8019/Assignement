@@ -3,7 +3,7 @@ public class large
 {
     public static void Main()
     {
-        int num1 = 325;
+        int num1 = 900;
         int num2 = 750;
         int num3 = 451;
         if(num1> num2)

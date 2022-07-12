@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Assinment1\\Assinment1.csproj",
+      "projectUniqueName": "E:\\laxman\\training\\Assignement\\Assinment1\\Assinment1\\Assinment1.csproj",
       "projectName": "Assinment1",
-      "projectPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Assinment1\\Assinment1.csproj",
+      "projectPath": "E:\\laxman\\training\\Assignement\\Assinment1\\Assinment1\\Assinment1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\laxman\\training\\assignmentrepo\\Assinment1\\Assinment1\\obj\\",
+      "outputPath": "E:\\laxman\\training\\Assignement\\Assinment1\\Assinment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
