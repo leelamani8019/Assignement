@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cart.css">
+    <!-- adding bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        h5 {
+            color: black;
+        }
+
+        .properties-img {
+            padding-bottom: 10px;
+            padding-top: 50px;
+        }
+
+        .cpara {
+            color: black;
+        }
+
+        .pt-30 {
+            padding-top: 70px;
+        }
+
+        .row {
+            padding-right: 80px;
+        }
+
+        .subscribe-caption {
+            padding-top: 50px;
+        }
+
+        h4 {
+            color: white;
+        }
+    </style>
+
+    <title>Shopping</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-light">
+            <div class="container-fluid">
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav">
+                        <a href="#" class="nav-item nav-link active" style="color: black;">About us</a>
+                        <a href="#" class="nav-item nav-link" style="color: black;">Privacy</a>
+                        <a href="faq.html" class="nav-item nav-link" style="color: black;">FAQ</a>
+                    </div>
+                    <div class="navbar-nav ms-auto">
+
+                        <a href="#" class="nav-item nav-link" style="color: black;">My Wishlist</a>
+                        <a href="#" class="nav-item nav-link" style="color: black;">Track your orders</a>
+                        <a href="https://www.facebook.com/" class="nav-item nav-link"><img
+                                src="https://img.icons8.com/material-outlined/2x/facebook-new.png" alt=""
+                                style="width: 20px;"></a>
+                        <a href="https://www.youtube.com/" class="nav-item nav-link"><img
+                                src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png?token=exp=1658210979~hmac=9eb33863618818d689b6f336aa91ef57"
+                                alt="" style="width: 20px;"></a>
+                        <a href="https://www.reddit.com/" class="nav-item nav-link"><img
+                                src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494500.png?token=exp=1658211023~hmac=654aeb758f29526ad6ab1dfe02b2a187"
+                                alt="" style="width: 20px;"></a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a href="#" class="navbar-brand">Shopping
+                </a>
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav">
+                        <a href="test.html" class="nav-item nav-link active">Home</a>
+                        <a href="categories.html" class="nav-item nav-link">Men</a>
+                        <a href="categories.html" class="nav-item nav-link">Women</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Pages
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                <li><a class="dropdown-item" href="login.html">Login</a></li>
+                                <li><a class="dropdown-item" href="cart.html">Cart</a></li>
+                                <li><a class="dropdown-item" href="pro-deatils.html">Product Details</a></li>
+                                <li><a class="dropdown-item" href="checkout.html">Product Checkout</a></li>
+                            </ul>
+                        </li>
+                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    </div>
+                    <div class="navbar-nav ms-auto">
+                        <a href="login.html" class="nav-item nav-link"><img
+                                src="https://cdn-icons-png.flaticon.com/512/2170/2170153.png" alt="" width="35px"></a>
+                        <a href="cart.html" class="nav-item nav-link"><img
+                                src="https://cdn-icons-png.flaticon.com/512/891/891462.png" alt="" width="35px"></a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="header-bottom text-center" style="padding: 11px 0;">
+            <p style=" color:red; font-size: 25px; font-weight: 400; margin: 0;">Sale Up To 50% Biggest Discounts.
+                Hurry! Limited Perriod Offer <a href="#" class="browse-btn">Shop Now</a></p>
+        </div>
+    </header>
+
+    <main>
+        <div class="container-fluid my-1" style="background-color: rgba(255,0,0,0.1); height: 200px;">
+            <div style="text-align: center;" class="pt-5">
+                <h1>Cart</h1>
+                <p>Home | Cart</p>
+            </div>
+        </div>
+
+        <section>
+            <div class="card my-4">
+                <div class="row">
+                    <div class="col-md-8 cart mr-2">
+                        <div class="title">
+                            <div class="row">
+                                <div class="col">
+                                    <h4><b>Shopping Cart</b></h4>
+                                </div>
+                                <div class="col align-self-center text-right text-muted">3 items</div>
+                            </div>
+                        </div>
+                        <div class="row border-top border-bottom">
+                            <div class="row main align-items-center">
+                                <div class="col-2"><img class="img-fluid" src="/Temp-400x300.jpg"></div>
+                                <div class="col">
+                                    <div class="row text-muted">Shirt</div>
+                                    <div class="row">Cotton T-shirt</div>
+                                </div>
+                                <div class="col">
+                                    <a href="#">-</a><a href="#" class="border">1</a><a href="#">+</a>
+                                </div>
+                                <div class="col">&euro; 44.00 <span class="close">&#10005;</span></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="row main align-items-center">
+                                <div class="col-2"><img class="img-fluid" src="/Temp-400x300 (1).jpg"></div>
+                                <div class="col">
+                                    <div class="row text-muted">Shirt</div>
+                                    <div class="row">Cotton T-shirt</div>
+                                </div>
+                                <div class="col">
+                                    <a href="#">-</a><a href="#" class="border">1</a><a href="#">+</a>
+                                </div>
+                                <div class="col">&euro; 44.00 <span class="close">&#10005;</span></div>
+                            </div>
+                        </div>
+                        <div class="row border-top border-bottom">
+                            <div class="row main align-items-center">
+                                <div class="col-2"><img class="img-fluid" src="/Temp-400x300 (2).jpg"></div>
+                                <div class="col">
+                                    <div class="row text-muted">Shirt</div>
+                                    <div class="row">Cotton T-shirt</div>
+                                </div>
+                                <div class="col">
+                                    <a href="#">-</a><a href="#" class="border">1</a><a href="#">+</a>
+                                </div>
+                                <div class="col">&euro; 44.00 <span class="close">&#10005;</span></div>
+                            </div>
+                        </div>
+                        <div class="back-to-shop"><a href="#">&leftarrow;</a><span class="text-muted">Back to
+                                shop</span></div>
+                    </div>
+                    <div class="col-md-4 summary">
+                        <div>
+                            <h5><b>Summary</b></h5>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col" style="padding-left:0;">ITEMS 3</div>
+                            <div class="col text-right">&euro; 132.00</div>
+                        </div>
+                        <form>
+                            <p>SHIPPING</p>
+                            <select>
+                                <option class="text-muted">Standard-Delivery- &euro;5.00</option>
+                            </select>
+                            <p>GIVE CODE</p>
+                            <input id="code" placeholder="Enter your code">
+                        </form>
+                        <div class="row" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
+                            <div class="col">TOTAL PRICE</div>
+                            <div class="col text-right">&euro; 137.00</div>
+                        </div>
+                        <button class="btn-primary">CHECKOUT</button>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer style="background-color: rgb(32, 28, 28);">
+        <div class="footer-wrapper gray-bg">
+            <div class="footer-area footer-padding">
+
+                <section class="subscribe-area">
+                    <div class="container">
+                        <div class="row justify-content-between subscribe-padding">
+                            <div class="col-xxl-3 col-xl-3 col-lg-4">
+                                <div class="subscribe-caption">
+                                    <h3 style="color: white;">Subscribe Newsletter</h3>
+                                    <p style="color: white;">Subscribe newsletter to get 5% on all products.</p>
+                                </div>
+                            </div>
+                            <div class="col-xxl-5 col-xl-6 col-lg-7 col-md-9">
+                                <div class="subscribe-caption">
+                                    <form action="#">
+                                        <input type="text" placeholder="Enter your email">
+                                        <button class="subscribe-btn btn-primary">Subscribe</button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-xxl-2 col-xl-2 col-lg-4">
+
+                                <div class="footer-social">
+                                    <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
+                            <div class="single-footer-caption mb-50">
+                                <div class="single-footer-caption mb-20">
+
+                                    <div class="footer-logo mb-35">
+                                        <a href="test.html"><img
+                                                src="data:image/webp;base64,UklGRoIEAABXRUJQVlA4THUEAAAvysALEJ+hoJHUaMAG/nXSvxbmn0AQIm74v5PaSLYSiH6G9N8TIRWQubuQDVAUZncA9X9MDEx0DHQ0dFQUZER4aKgymQqpLwQQQgAMFPi/wCDnAfB2QZqAiAiXZdt22zb3ufduIDQFSbAqA0jAQ+Y/OhKFWFn4juj/BECsbRusdK94EeHy+m8XiZ+ZAiL6PwHID4v18cTMfDquFwENH5aGM80yNJr4dVzQ/YoWWzsu7NbNJQ3PaERbKcezur6lFM+u2klxhaqVFFfZt5F0dTjRRIbjB13Qxti0kOa4RcngY6zbR7iYF0XQJzjx/2pS3+fy72w43qPwLsb6/2Vk3ifqM8HFdigdzjEXCvSSc77bJ3oun1K+2/dWHLWhGLoYq6zna86P+jsPZP5ODSQZ29dMxEvMuImZjLdbStXPRNI+I54dUAztW4GjCghLMRLLMOoWEwsJwEY4pF1TVYhkAZBJ+915YPR4fEtFDgA2PIwMrwAIZglAsQMgY33SPRFRuDvQcvgC1PAZ5glq8k9tIj0AwxyAwGwA9MwawI5ZAjhFdMorEdGVY+rpC/OPXLPph4bI6UdsmXkvpWHmtfhxzG4hl8xsfuSWo0PKPRFdvmHdZ5L6syb5Pkl90xn8lfTEpWeuNjtFqj2lXBHRI16Wk+NRByOtG0kmH4zMyJwaUE6OR90ixv6sBDKUmYwkzz6hPJEM2QFw8tAdRpvOMrNXvWfms9ykcQoR0WuGuC6zeHAafIO4LjtQA1N7cMWKnqih8BS8xtAmNZ4NPYfozw4SgOh7AUCqLgDoVAcg9OdyyLWQcs2BDDMymJGkrYodZLALsJByzYEMW+A5MNZFdAA4EgDxxjQFHyxhbCE905hxqKY5AFSSi+RAjyT7AsikAUBzAKgk9wAoxtMnBeNlAMww93ANB+aF/c+95sAluR4EBwCRvDfAJbl+Ady8JppkA5x1gesY8sJZcK7tnHJNRPcZbhztgWFKMr9z42i/QWZ/I2pVOGiBI2PI+P6cfB+JP5MhY0h5IKKLl5U3IJI0M34jkjQzbvJF5/2DumGT8Zcn/400T3YZOuXtgogu2qxFoZEUAD0IPojk/aqRFADtSWkB5jfOurqOIS+cBaq2PgWPNE5VKicpiKQDyA+YHOiRZHslkg4g7ylss8b6BmYLP9JwLAo7Qm0hCbejtdBIpu43n/AwCyQNrxrJ1P3mHsTokzPglVhmKfQh5kkLCYCtyyLzISU0wDgND2LgNPR3ME7DphZCkaqxvkNhakC1UDHUeDb0EqIDWNWlcvB6G2apA/A0pPrAmg3WscHTkOomeCJJEzZAkSStYSI3krwcAIJP+pCTX8V8yALQJAlLlxzLAWhSx2aXHL+UOnZ3yTGngC5huUlKL6JR9ey/Hx4LP7WZw0x50TzQU2aGwNMa7QM7wVtRSpopixaSfmJ2L2q7zK7/z9orqDoUGlnVoNDMaj6Fhu79PL5HU0s7hxVobe1LeY0GFxtfwuuANg8rm2NVQMMHpQc7soNWAU0NAA=="
+                                                alt="" data-pagespeed-url-hash="1864434882"
+                                                onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Shop Men</h4>
+                                    <ul>
+                                        <li><a href="#">Clothing Fashion</a></li>
+                                        <li><a href="#">Winter</a></li>
+                                        <li><a href="#">Summer</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Shop Women</h4>
+                                    <ul>
+                                        <li><a href="#">Clothing Fashion</a></li>
+                                        <li><a href="#">Winter</a></li>
+                                        <li><a href="#">Summer</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Quick Links</h4>
+                                    <ul>
+                                        <li><a href="#">Track Your Order</a></li>
+                                        <li><a href="#">Support</a></li>
+                                        <li><a href="#">FAQ</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom-area">
+                <div class="container">
+                    <div class="footer-border">
+                        <div class="row">
+                            <div class="col-xl-12 ">
+                                <div class="footer-copy-right text-center">
+                                    <p style="color: white
+        ;">Copyright &copy;
+                                        <script>document.write(new Date().getFullYear());</script> All rights reserved |
+                                        Hemant@123
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
