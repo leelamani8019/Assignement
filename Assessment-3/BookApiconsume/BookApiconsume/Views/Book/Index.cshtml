@@ -1,0 +1,39 @@
+﻿@model IEnumerable<BookApiconsume.Models.Books>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h1 style="color:darkmagenta" class="display-4"><i><b>Welcome to Mani's BookStore </i></h1>
+</div>
+
+<p>
+ 
+    <a asp-action="Create" class="btn btn-primary"><strong>Add a Book </strong></a>
+</p>
+<form asp-action="search" >
+    <div style="text-align:center;padding-bottom:30px;">
+        <input type="text" name="search" size="80px;"  />
+        <button type="submit" class="btn btn-outline-danger">Search</button>
+    </div>
+</form>
+<div class="row">
+    @foreach(var item in Model)
+    {
+    <div class="col-md-3">
+        <p><img class="cen"src="/uploader/@item.bookimg" width="200px" height="200px" />
+        <div class="row">
+        <div class="col-sm-12">
+       <h5  style="color:black">Name:@item.Name</h5> <br>
+      <h5  style="color:black">Zoner: @item.Zoner</h5><br/>
+      <h5 style="color:black">cost: @item.cost</h5><br/></div></div></p>
+        <a asp-action="Edit" asp-route-Id="@item.Id" class="btn btn-warning" >Edit </a>|
+        <a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-success">Details </a>|
+        <a asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-danger" >Delete</a>
+
+    </div>
+        
+    }   
+</div>

@@ -1,0 +1,28 @@
+﻿@model BookApiconsume.Models.Books
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="color:black">Details</h1>
+
+<div style="color:black">
+    <h4>Books</h4>
+    <hr />
+    <div class="row container">
+        <div class="col-md-5">
+            <img src="/uploader/@Model.bookimg" height="350px" width="250px"/>
+            
+
+        </div>
+        <div class="col-md-7" style="padding-bottom:20px">
+            <span style="font-size:50px">@Model.Name</span><br />
+            <span style="font-size:25px"><strong style="font-size:30px">Discription:</strong>a written or printed work consisting of pages glued or sewn together along one side and bound in covers.</span>
+        <br />
+        <a asp-action="Index" class="btn btn-outline-primary">Back to List</a>
+        <a asp-action="AddCart" asp-controller="Book" class="btn btn-outline-primary">Add Cart</a>
+        </div>
+        </div>
+        </div>
+   

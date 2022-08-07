@@ -1,0 +1,14 @@
+E:\laxman\training\Assignement\BookApi\Bookdetials\bin\Debug\net6.0\Bookdetials.deps.json
+E:\laxman\training\Assignement\BookApi\Bookdetials\bin\Debug\net6.0\Bookdetials.dll
+E:\laxman\training\Assignement\BookApi\Bookdetials\bin\Debug\net6.0\Bookdetials.pdb
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.csproj.AssemblyReference.cache
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.GeneratedMSBuildEditorConfig.editorconfig
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.AssemblyInfoInputs.cache
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.AssemblyInfo.cs
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.csproj.CoreCompileInputs.cache
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.dll
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\refint\Bookdetials.dll
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.pdb
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\ref\Bookdetials.dll
+E:\laxman\training\Assignement\BookApi\Bookdetials\bin\Debug\net6.0\Bookdetials.runtimeconfig.json
+E:\laxman\training\Assignement\BookApi\Bookdetials\obj\Debug\net6.0\Bookdetials.genruntimeconfig.cache
