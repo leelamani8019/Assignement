@@ -5,8 +5,7 @@ namespace Employee.Models
 {
     public class Employees
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        
         public int Id { get; set; }
         public string? Name { get; set; }
         public long phonenumber { get; set; }

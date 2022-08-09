@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeApiConsume
 build_property.RootNamespace = EmployeeApiConsume
-build_property.ProjectDir = E:\laxman\training\Assignement\EmployeeApiConsume\EmployeeApiConsume\
+build_property.ProjectDir = E:\laxman\training\Assignement\day18\EmployeeApiConsume\EmployeeApiConsume\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\laxman\training\Assignement\EmployeeApiConsume\EmployeeApiConsume
+build_property.MSBuildProjectDirectory = E:\laxman\training\Assignement\day18\EmployeeApiConsume\EmployeeApiConsume
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Create.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Edit.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Index.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Home/Index.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Home/Privacy.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/Error.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/_ViewImports.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/_ViewStart.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/laxman/training/Assignement/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/_Layout.cshtml]
+[E:/laxman/training/Assignement/day18/EmployeeApiConsume/EmployeeApiConsume/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2he5ggoa64

@@ -8603,11 +8603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\laxman\\training\\Assignement\\EmployeeApiConsume\\EmployeeApiConsume\\EmployeeApiConsume.csproj",
+      "projectUniqueName": "E:\\laxman\\training\\Assignement\\day18\\EmployeeApiConsume\\EmployeeApiConsume\\EmployeeApiConsume.csproj",
       "projectName": "EmployeeApiConsume",
-      "projectPath": "E:\\laxman\\training\\Assignement\\EmployeeApiConsume\\EmployeeApiConsume\\EmployeeApiConsume.csproj",
+      "projectPath": "E:\\laxman\\training\\Assignement\\day18\\EmployeeApiConsume\\EmployeeApiConsume\\EmployeeApiConsume.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\laxman\\training\\Assignement\\EmployeeApiConsume\\EmployeeApiConsume\\obj\\",
+      "outputPath": "E:\\laxman\\training\\Assignement\\day18\\EmployeeApiConsume\\EmployeeApiConsume\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

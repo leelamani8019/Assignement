@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\laxman\\training\\Assignement\\Employee\\Employee\\Employee.csproj": {}
+    "E:\\laxman\\training\\Assignement\\day18\\Employee\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "E:\\laxman\\training\\Assignement\\Employee\\Employee\\Employee.csproj": {
+    "E:\\laxman\\training\\Assignement\\day18\\Employee\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\laxman\\training\\Assignement\\Employee\\Employee\\Employee.csproj",
+        "projectUniqueName": "E:\\laxman\\training\\Assignement\\day18\\Employee\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "E:\\laxman\\training\\Assignement\\Employee\\Employee\\Employee.csproj",
+        "projectPath": "E:\\laxman\\training\\Assignement\\day18\\Employee\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\laxman\\training\\Assignement\\Employee\\Employee\\obj\\",
+        "outputPath": "E:\\laxman\\training\\Assignement\\day18\\Employee\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
